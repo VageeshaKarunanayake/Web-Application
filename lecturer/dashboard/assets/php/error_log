@@ -1,0 +1,40 @@
+[05-Nov-2019 04:30:48 UTC] PHP Notice:  Undefined variable: pdf in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_progroup_list.php on line 33
+[05-Nov-2019 04:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddPage() on null in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_progroup_list.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_progroup_list.php on line 33
+[05-Nov-2019 04:31:21 UTC] PHP Notice:  Undefined variable: topic_details in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 26
+[05-Nov-2019 04:31:21 UTC] PHP Notice:  Undefined variable: topic_details in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 27
+[05-Nov-2019 04:31:21 UTC] PHP Notice:  Undefined variable: topic_details in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 28
+[05-Nov-2019 04:31:21 UTC] PHP Notice:  Undefined variable: to in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 29
+[05-Nov-2019 04:32:23 UTC] PHP Notice:  Undefined variable: to in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 29
+[05-Nov-2019 04:34:18 UTC] PHP Notice:  Undefined variable: topic_details in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 27
+[05-Nov-2019 04:34:18 UTC] PHP Notice:  Undefined variable: topic_details in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 28
+[05-Nov-2019 04:34:18 UTC] PHP Notice:  Undefined variable: topic_details in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 29
+[05-Nov-2019 04:35:05 UTC] PHP Notice:  Undefined variable: pdf in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_progroup_list.php on line 33
+[05-Nov-2019 04:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddPage() on null in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_progroup_list.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_progroup_list.php on line 33
+[05-Nov-2019 04:36:06 UTC] PHP Notice:  Array to string conversion in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/allocate_topic.php on line 49
+[05-Nov-2019 04:51:30 UTC] PHP Notice:  Undefined variable: pdf in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 04:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddPage() on null in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 04:55:13 UTC] PHP Notice:  Undefined variable: pdf in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 04:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddPage() on null in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 05:01:00 UTC] PHP Notice:  Undefined variable: pdf in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 05:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddPage() on null in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 05:02:12 UTC] PHP Notice:  Undefined variable: pdf in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 05:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddPage() on null in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/downloadpdf_protopicgroups_list.php on line 32
+[05-Nov-2019 05:46:21 UTC] PHP Notice:  Undefined index: gid in /home/chamodpr/public_html/ccp/lecturer/dashboard/assets/php/get_students_for_update_group.php on line 9
